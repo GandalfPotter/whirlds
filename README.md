@@ -1,2 +1,4 @@
-# whirld-worlds
-Some archived Whirld worlds for Mars Explorer, original Syn3h, Carbon Combat and whatever other non-existant games that use Whirld framework
+- https://ledlamp.github.io/whirlds/Freestyle/Whirld.utw
+- https://ledlamp.github.io/whirlds/Foxholes/Whirld.utw
+- https://ledlamp.github.io/whirlds/Lava%20Racer/Whirld.utw
+- https://ledlamp.github.io/whirlds/Eric's%20Maze/Whirld.utw
