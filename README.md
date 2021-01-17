@@ -1,4 +1,4 @@
-- `https://ledlamp.github.io/whirlds/Freestyle/Whirld.utw`
-- `https://ledlamp.github.io/whirlds/Foxholes/Whirld.utw`
-- `https://ledlamp.github.io/whirlds/Lava%20Racer/Whirld.utw`
-- `https://ledlamp.github.io/whirlds/Eric's%20Maze/Whirld.utw`
+- `http://avps.gq/whirlds/Freestyle/Whirld.utw`
+- `http://avps.gq/whirlds/Foxholes/Whirld.utw`
+- `http://avps.gq/whirlds/Lava%20Racer/Whirld.utw`
+- `http://avps.gq/whirlds/Eric's%20Maze/Whirld.utw`
