@@ -22,3 +22,6 @@ You can play these in Mars Explorer with the following URLs:
 - `http://lamp.gitea.moe/whirlds/SkyPillars.utw`
 - `http://lamp.gitea.moe/whirlds/Sunken%20Embassy/Whirld.utw`
 - `http://lamp.gitea.moe/whirlds/Ultra%20WOOPland/Whirld.utw`
+
+You can also play the worlds in the [Geiodo](Geiodo/) directory like so:
+- `http://lamp.gitea.moe/whirlds/Geiodo/ultimatum_iv.utw`
